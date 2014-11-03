@@ -1,0 +1,11 @@
+Level	Code	Message
+Warning	1292	Incorrect datetime value: '/11/44'
+Warning	1411	Incorrect datetime value: '/11/44' for function str_to_date
+Warning	1292	Incorrect datetime value: '23/03/'
+Warning	1411	Incorrect datetime value: '23/03/' for function str_to_date
+Warning	1292	Incorrect datetime value: '09/05/'
+Warning	1411	Incorrect datetime value: '09/05/' for function str_to_date
+Warning	1292	Incorrect datetime value: '22/12/'
+Warning	1411	Incorrect datetime value: '22/12/' for function str_to_date
+Warning	1292	Incorrect datetime value: '/05/21'
+Warning	1411	Incorrect datetime value: '/05/21' for function str_to_date

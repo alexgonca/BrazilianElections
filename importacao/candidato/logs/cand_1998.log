@@ -1,0 +1,3 @@
+Level	Code	Message
+Warning	1292	Incorrect datetime value: '15646514'
+Warning	1411	Incorrect datetime value: '15646514' for function str_to_date

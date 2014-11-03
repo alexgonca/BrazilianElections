@@ -1,0 +1,29 @@
+Level	Code	Message
+Warning	1292	Incorrect datetime value: 'x3010196'
+Warning	1265	Data truncated for column 'DATA_NASCIMENTO' at row 17329
+Warning	1292	Incorrect datetime value: 'x1010196'
+Warning	1265	Data truncated for column 'DATA_NASCIMENTO' at row 35658
+Warning	1292	Incorrect datetime value: '29021954'
+Warning	1411	Incorrect datetime value: '29021954' for function str_to_date
+Warning	1292	Incorrect datetime value: 'x3010179'
+Warning	1265	Data truncated for column 'DATA_NASCIMENTO' at row 96992
+Warning	1292	Incorrect datetime value: '29021947'
+Warning	1411	Incorrect datetime value: '29021947' for function str_to_date
+Warning	1292	Incorrect datetime value: '20518000'
+Warning	1411	Incorrect datetime value: '20518000' for function str_to_date
+Warning	1292	Incorrect datetime value: '29021957'
+Warning	1411	Incorrect datetime value: '29021957' for function str_to_date
+Warning	1292	Incorrect datetime value: 'x2010195'
+Warning	1265	Data truncated for column 'DATA_NASCIMENTO' at row 233516
+Warning	1292	Incorrect datetime value: 'x1010196'
+Warning	1265	Data truncated for column 'DATA_NASCIMENTO' at row 248338
+Warning	1292	Incorrect datetime value: 'x1110196'
+Warning	1265	Data truncated for column 'DATA_NASCIMENTO' at row 258612
+Warning	1292	Incorrect datetime value: 'x3010192'
+Warning	1265	Data truncated for column 'DATA_NASCIMENTO' at row 262014
+Warning	1292	Incorrect datetime value: 'x2110196'
+Warning	1265	Data truncated for column 'DATA_NASCIMENTO' at row 272706
+Warning	1292	Incorrect datetime value: '29021959'
+Warning	1411	Incorrect datetime value: '29021959' for function str_to_date
+Warning	1292	Incorrect datetime value: '31041947'
+Warning	1411	Incorrect datetime value: '31041947' for function str_to_date

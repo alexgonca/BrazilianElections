@@ -1,0 +1,9 @@
+Level	Code	Message
+Warning	1292	Incorrect datetime value: 'x2508196'
+Warning	1265	Data truncated for column 'DATA_NASCIMENTO' at row 1264
+Warning	1292	Incorrect datetime value: '29021955'
+Warning	1411	Incorrect datetime value: '29021955' for function str_to_date
+Warning	1292	Incorrect datetime value: '2903 59'
+Warning	1411	Incorrect datetime value: '2903 59' for function str_to_date
+Warning	1292	Incorrect datetime value: '29021961'
+Warning	1411	Incorrect datetime value: '29021961' for function str_to_date

@@ -1,0 +1,5 @@
+Level	Code	Message
+Warning	1292	Incorrect datetime value: '19/25/1950'
+Warning	1411	Incorrect datetime value: '19/25/1950' for function str_to_date
+Warning	1292	Incorrect datetime value: '31/02/1960'
+Warning	1411	Incorrect datetime value: '31/02/1960' for function str_to_date

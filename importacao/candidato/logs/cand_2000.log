@@ -1,0 +1,35 @@
+Level	Code	Message
+Warning	1292	Incorrect datetime value: '29021963'
+Warning	1411	Incorrect datetime value: '29021963' for function str_to_date
+Warning	1292	Incorrect datetime value: '29021949'
+Warning	1411	Incorrect datetime value: '29021949' for function str_to_date
+Warning	1292	Incorrect datetime value: '29021967'
+Warning	1411	Incorrect datetime value: '29021967' for function str_to_date
+Warning	1292	Incorrect datetime value: '29021951'
+Warning	1411	Incorrect datetime value: '29021951' for function str_to_date
+Warning	1292	Incorrect datetime value: '29021953'
+Warning	1411	Incorrect datetime value: '29021953' for function str_to_date
+Warning	1292	Incorrect datetime value: '29021929'
+Warning	1411	Incorrect datetime value: '29021929' for function str_to_date
+Warning	1292	Incorrect datetime value: '29021961'
+Warning	1411	Incorrect datetime value: '29021961' for function str_to_date
+Warning	1292	Incorrect datetime value: '29021959'
+Warning	1411	Incorrect datetime value: '29021959' for function str_to_date
+Warning	1292	Incorrect datetime value: 'x2802194'
+Warning	1265	Data truncated for column 'DATA_NASCIMENTO' at row 169494
+Warning	1292	Incorrect datetime value: 'x2106196'
+Warning	1265	Data truncated for column 'DATA_NASCIMENTO' at row 170581
+Warning	1292	Incorrect datetime value: '0612959'
+Warning	1411	Incorrect datetime value: '0612959' for function str_to_date
+Warning	1292	Incorrect datetime value: '29021963'
+Warning	1411	Incorrect datetime value: '29021963' for function str_to_date
+Warning	1292	Incorrect datetime value: '29021963'
+Warning	1411	Incorrect datetime value: '29021963' for function str_to_date
+Warning	1292	Incorrect datetime value: '29021951'
+Warning	1411	Incorrect datetime value: '29021951' for function str_to_date
+Warning	1292	Incorrect datetime value: '29021969'
+Warning	1411	Incorrect datetime value: '29021969' for function str_to_date
+Warning	1292	Incorrect datetime value: '29021950'
+Warning	1411	Incorrect datetime value: '29021950' for function str_to_date
+Warning	1292	Incorrect datetime value: '29021958'
+Warning	1411	Incorrect datetime value: '29021958' for function str_to_date
